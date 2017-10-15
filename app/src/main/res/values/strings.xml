@@ -1,0 +1,46 @@
+<resources>
+    <string name="subscription_key">f91d18d592314daaad28438ab0178b26</string>
+    <string name="endpoint">https://westcentralus.api.cognitive.microsoft.com/face/v1.0</string>
+
+    <string name="app_name">İşler Güçler</string>
+    <string name="id">id:</string>
+    <string name="log_in">LOGIN</string>
+
+    <string name="title_activity_logged__in__user">Logged_In_User</string>
+    <string name="Employees">Employees</string>
+    <string name="Projects">Projects</string>
+    <string name="Id2">Id: </string>
+    <string name="username1">\tUsername</string>
+    <string name="username">Username</string>
+    <string name="Id">Id</string>
+    <string name="newUser">Don\'t have an account? <b>Sign Up</b></string>
+    <string name="Name">Name</string>
+    <string name="Department">Department</string>
+    <string name="StartDate">Start Date</string>
+    <string name="DueDate">Due Date</string>
+    <string name="Project">Project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_having_fragment">HavingFragment</string>
+    <string name="AddProject">Add a New Project</string>
+    <string name="addTask">Add a New Task</string>
+    <string name="addEmployee">Add a New Employee</string>
+    <string name="estimatedCost">Estimated Cost</string>
+    <string name="assignee">Assignee</string>
+    <string name="remainingCost">Remaining Cost</string>
+    <string name="surname">Surname</string>
+    <string name="password1">\tPassword</string>
+    <string name="password">Password</string>
+    <string name="removeTask">Remove Task</string>
+    <string name="remove">REMOVE</string>
+    <string name="update">UPDATE</string>
+    <string name="email">E-mail</string>
+    <string name="deleteEmployee">Delete Employee</string>
+    <string name="deleteProject">Delete Project</string>
+    <string name="Profile">Profile Page</string>
+    <string name="done">Sign Up</string>
+    <string name="EN">EN</string>
+    <string name="TR">TR</string>
+
+</resources>
